@@ -4,6 +4,6 @@ int main()
 {
     int m;
     scanf("%d", &m);
-    printf("test");
+    printf("我成功了");
     return 0;
 }
