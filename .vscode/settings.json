@@ -1,3 +1,6 @@
 {
-    "python.terminal.activateEnvironmen":false
+    "python.terminal.activateEnvironmen": false,
+    "files.associations": {
+        "guess": "c"
+    }
 }
